@@ -29,4 +29,4 @@ Tech Stack:
 
 ## Website Frontend
 1. Home Page
-![Home](img/Home.png)
+![Home](img/Home1.png)
