@@ -29,16 +29,32 @@ Tech Stack:
 
 ## Website Frontend
 1. Home Page
+
 ![Home](img/Home1.png)
 ![Home1](img/Home2.png)
 ![Home2](img/home3.png)
 
 
 2. Contest Page
+
 ![Contest](img/contest1.png)
 ![Contest2](img/contest2.png)
 
 3. Jobs Page
+
 ![Jobs](img/jobs1.png)
 ![Jobs2](img/job2.png)
+
+4. Resources Page
+
+![Resources](img/resources1.png)
+![Resources2](img/resources2.png)
+
+5. Login Page
+
+![Login](img/login.png)
+
+6. Register Page
+
+![Register](img/register.png)
 
